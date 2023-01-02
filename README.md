@@ -4,6 +4,6 @@
   </a>
 
   <p align="center">
-    yes nalang
+    yes nalang </p>
    
 </div>
